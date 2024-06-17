@@ -1,5 +1,5 @@
-# rock-paper-scissor
+# Rock Paper Scissors
 
 Built with `Vue.js`.
 
-![rsp](./public/rsp.png)
+![rsp](https://raw.githubusercontent.com/surajkareppagol/Assets/main/27%20-%20Rock-Paper-Scissors/rsp.png)
